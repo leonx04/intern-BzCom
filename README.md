@@ -14,6 +14,7 @@ Chào mừng bạn đến với bộ tài liệu chuẩn bị phỏng vấn cho 
    - [NextJS](./nextjs-questions.md)
    - [Thuattoan](./thuattoan-questions.md)
    - [Java](./java-questions.md)
+   - [JSvsReactJSvsNextJSvsAngularJS](./JSvsReactJSvsNextJSvsAngularJS.md)
 
 Hãy đọc kỹ và chuẩn bị cho mỗi phần. Chúc bạn thành công trong buổi phỏng vấn!
 
