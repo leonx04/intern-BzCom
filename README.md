@@ -12,6 +12,8 @@ Chào mừng bạn đến với bộ tài liệu chuẩn bị phỏng vấn cho 
    - [React](./react-questions.md)
    - [SQL](./sql-questions.md)
    - [NextJS](./nextjs-questions.md)
+   - [Thuattoan](./thuattoan-questions.md)
+   - [Java](./java-questions.md)
 
 Hãy đọc kỹ và chuẩn bị cho mỗi phần. Chúc bạn thành công trong buổi phỏng vấn!
 
