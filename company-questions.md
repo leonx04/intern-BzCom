@@ -4,7 +4,7 @@ Dưới đây là một số câu hỏi nhà tuyển dụng có thể hỏi khi 
 
 ### **1. Bạn đã tìm hiểu gì về công ty chúng tôi?**
 **Câu trả lời mẫu**:  
-"Em đã tìm hiểu về công ty thông qua website và các thông tin tuyển dụng. Em được biết BZCOM được thành lập vào năm 2017 tại Hà Nội, và công ty hoạt động dựa trên triết lý 'consensus - communication - consideration'. Em rất ấn tượng với cách công ty xây dựng sự đồng thuận với nhân viên, khách hàng và đối tác thông qua giao tiếp minh bạch và sự tôn trọng lẫn nhau. Ngoài ra, em cũng biết rằng công ty chuyên tư vấn và phát triển các giải pháp CNTT cho khách hàng ở nhiều lĩnh vực, và em thực sự muốn học hỏi thêm từ các dự án thực tế mà công ty đang thực hiện."
+"Em đã tìm hiểu về công ty thông qua website và các thông tin tuyển dụng. Em được biết BZCOM được thành lập vào năm 2017 tại Hà Nội, và công ty hoạt động dựa trên triết lý 'consensus - communication - consideration'(sự đồng thuận - giao tiếp - xem xét). Em rất ấn tượng với cách công ty xây dựng sự đồng thuận với nhân viên, khách hàng và đối tác thông qua giao tiếp minh bạch và sự tôn trọng lẫn nhau. Ngoài ra, em cũng biết rằng công ty chuyên tư vấn và phát triển các giải pháp CNTT cho khách hàng ở nhiều lĩnh vực, và em thực sự muốn học hỏi thêm từ các dự án thực tế mà công ty đang thực hiện."
 
 ---
 
